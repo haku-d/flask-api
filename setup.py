@@ -17,7 +17,7 @@ setup(
         'PyMySQL',
         'requests',
         'flask-praetorian==0.5.3',
-        'flask-cors==3.0.7',
+        'flask-cors==3.0.9',
         'Flask-Migrate==2.5.1',
         'flask-request-id-header==0.1.1'
     ],
